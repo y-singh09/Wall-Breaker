@@ -38,9 +38,9 @@ Compile the Code
 - Restart the Game: Press Enter after a game over or winning screen to restart.
 
 ## Demo
-![Alt text](Screenshot_03)
-![Alt text](Screenshot_02)
-![Alt text](Screenshot_01)
+![Alt text](Screenshot_03.png)
+![Alt text](Screenshot_02.png)
+![Alt text](Screenshot_01.png)
 
 
 ## Contribution
