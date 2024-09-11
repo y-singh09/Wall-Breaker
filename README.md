@@ -19,17 +19,17 @@ A classic Brick Breaker game implemented in Java using Swing. The game features 
 - Java Development Kit (JDK) 8 or higher
 -Steps
 Clone the Repository
-``bash
+```bash
 git clone https://github.com/username/repository.git
 Replace https://github.com/username/repository.git with the URL of your GitHub repository.
-``
+```
 - Navigate to the Project Directory
-``bash
+```bash
 cd repository
 Compile the Code
-``
+```
 -Use the following command to compile the Java files:
-``bashjavac Gameplay.java MapGen.java ``
+```bash javac Gameplay.java MapGen.java ```
 -Run the Game
 ## Gameplay
 - Objective: Break all the bricks on the screen by bouncing the ball with your paddle.
@@ -52,14 +52,13 @@ I welcome contributions to improve this project. To contribute:
 
 - git checkout -b feature/YourFeature
 - Commit Your Changes
-``bash
+```bash
 git add .
 git commit -m "Add new feature"
-Push to the Branch
-``
-``bash
-Copy code
+```
+- Push to the Branch
+```bash
 git push origin feature/YourFeature
-``
--Create a Pull Request
--Go to the original repository and create a pull request from your feature branch.
+```
+- Create a Pull Request
+- Go to the original repository and create a pull request from your feature branch.
